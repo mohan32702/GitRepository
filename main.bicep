@@ -21,6 +21,7 @@ resource storage 'Microsoft.Storage/storageAccounts@2023-01-01' = {
   tags: {
   environment: 'dev'
 owner: 'cloud-team-vpcx'
+My dear Mohan
 }
 
 }
