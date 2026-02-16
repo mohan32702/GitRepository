@@ -20,7 +20,7 @@ resource storage 'Microsoft.Storage/storageAccounts@2023-01-01' = {
   kind: 'StorageV2'
   tags: {
   environment: 'dev'
-owner: 'cloud-team'
+owner: 'cloud-team-vpcx'
 }
 
 }
