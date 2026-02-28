@@ -1,0 +1,1 @@
+console.log("Welcome to Ecommerce App - app.js:1");
